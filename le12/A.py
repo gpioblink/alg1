@@ -1,37 +1,47 @@
 N = int(input())
-V = [-1]*N
-L = []
-P = []
+L = []  # input
 
-class  Point:
-    def __init__(self,ps,value):
-        self.ps = ps
-        self.value = value
-    def __repr__(self):
-        return str(self.ps) + ' ' + str(self.value)
 
-def prim(t,d,c):
-    print(t,d,c)
-    if c == N:
-        return 0
+def prim():
+    # 頂点を適当に選ぶ
+    s = None
     for i in range(N):
-        if L[t][i] != -1 and V[i] == -1:
-            P.append(Point(i,L[t][i]))
-    print(P)
-    min = Point(-1,float('inf'))
-    for p in P:
-        if V[p.ps] != -1:
-            del V[p.ps]
-            continue
-        if min.value > p.value:
-            min = p
-    m = Point(min.ps,min.value)
-    del min
-    V[t] = d
-    return m.value + prim(m.ps,m.value, c+1)
+        for j in range(N):
+            if L[i][j] != -1:
+                s = i
+                break
+        if s is not None:
+            break
+    p = {s}
+    T = []
+    k = 0
+    while k < N - 1:
+        # 最終のP内で一番短いやつを加える
+        len = float("inf")
+        lenside = []
+        for sg in p:
+            for i in range(N):
+                isT = False
+                for t in T:
+                    if (t[0] == sg and t[1] == i) or (t[0] == i and t[1] == sg):
+                        # print("ignore")
+                        isT = True
+                        continue
+                if isT is False and i not in p and L[sg][i] != -1 and L[sg][i] < len:
+                    len = L[sg][i]
+                    lenside = [sg, i]
 
-    
+        p.add(lenside[0])
+        p.add(lenside[1])
+        T.append(lenside)
+        k = k + 1
+        #print(p,T,k)
+    cnt = 0
+    for t in T:
+        cnt += L[t[0]][t[1]]
+    print(cnt)
+
+
 for i in range(N):
-    L.append(list(map(int,input().split())))
-print(prim(1,0,0))
-
+    L.append(list(map(int, input().split())))
+prim()

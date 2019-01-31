@@ -30,22 +30,6 @@ def insert(T, z):
         #print("z.key<y.key")
         y.right = z
 
-def find(T, k):
-    y = None
-    x = T 
-    while x != None:
-        y = x
-        if k == x.key:
-            print('yes')
-            return
-        if k < x.key:
-            x = x.left
-        else:
-            x = x.right
-    print('no')
-    
-
-
 def printPreorder(x):
     if x == None:
         return
@@ -76,8 +60,5 @@ for i in range(N-1):
     Q = input().split()
     if Q[0] == "print":
         printal(T)
-        continue
-    elif Q[0] == "find":
-        find(T,int(Q[1])
         continue
     insert(T,Node(int(Q[1]),None,None,None))

@@ -38,7 +38,3 @@ if __name__ == '__main__':
     print('Stable' if (BSA == SSA) else 'Not stable')
     
 
-
-
-
-

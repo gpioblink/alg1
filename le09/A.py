@@ -16,4 +16,3 @@ H = int(input())
 Q = list(map(int, input().split()))
 Q.insert(0,-1)
 printHeap(H,Q,1)
-

@@ -71,7 +71,3 @@ for i in range(N):
         NL.add(D[0], D[2:])
 NL.print()
     
-
-
-
-

@@ -51,4 +51,3 @@ for i in range(N):
         solve(i)
         break
 solve(N)
-

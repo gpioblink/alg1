@@ -1,4 +1,3 @@
-
 def selectWhich(A,i,c):
     #print(A)
     #print(i)

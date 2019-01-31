@@ -1,4 +1,3 @@
-
 N = int(input())
 A = list(map(int, input().split(' ')))
 
@@ -13,4 +12,5 @@ while flag:
             flag = 1
 print (' '.join(map(str,A)))
 print(cnt)
+
 

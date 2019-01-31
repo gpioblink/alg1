@@ -38,5 +38,3 @@ while head!=tail:
         print(idata+" "+str(cnt)) 
         continue   
     enqueue((idata,value))
-
-
