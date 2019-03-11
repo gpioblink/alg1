@@ -1,3 +1,4 @@
+# WHATIS: 木の巡回 Bの入力方法の木を３つの表示順で見てみる
 class Node:
     def __init__(self,left,right):
         self.parent = None

@@ -1,3 +1,4 @@
+# WHATIS: insertとfindがある辞書
 def v2i(v):
         v = list(v)
         n = 0

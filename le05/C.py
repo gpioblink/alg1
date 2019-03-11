@@ -1,3 +1,4 @@
+# WHATIS: コッホ曲線　フラクタル
 import math
 
 class Point:

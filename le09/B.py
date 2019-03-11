@@ -1,3 +1,4 @@
+# WHATIS: 最大ヒープ 完全二分木からmaxヒープを作成する
 def left(i):
     return 2*i
 

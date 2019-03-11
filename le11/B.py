@@ -1,3 +1,4 @@
+# WHATIS: 深さ優先探索　方向付き
 N = int(input())
 L = [[] for i in range(N+1)]
 d = [0] * (N+1)
@@ -15,7 +16,6 @@ def dfs(key):
     time += 1
     f[key] = time
         
-
 for i in range(N):
     Q = list(map(int, input().split()))
     L[Q[0]].extend(Q[2:])

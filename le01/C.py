@@ -1,3 +1,4 @@
+# WHATIS: 素数判定
 import math
 def isPrime(x):
     if x==2:

@@ -1,4 +1,4 @@
-
+# WHATIS: 数字表から任意の２つの差の最大値を求める
 if __name__ == "__main__":
     n = int(input())
     R = []

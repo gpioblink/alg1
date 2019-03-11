@@ -1,3 +1,5 @@
+# WHATIS: 最大公約数 ２つの自然数x,yから
+
 def mygcd(x,y):
     if y != 0:
         mygcd(y,x%y)

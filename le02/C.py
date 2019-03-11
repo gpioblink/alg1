@@ -1,3 +1,4 @@
+# WHATIS: バブルソートと選択ソート比較
 import re
 
 def BubbleSort(C, N, A):

@@ -1,3 +1,4 @@
+# WHATIS: パーテーション 入力された配列を右端の数字の大小で仕分け
 def partition(A, p, r):
   x = A[r]
   i = p-1

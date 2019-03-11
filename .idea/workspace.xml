@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cd18be8-4f1e-43c8-8cb6-d6d83ecd9fe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/le13/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le01/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le01/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le01/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le01/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le01/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le01/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le01/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/le01/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le02/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le02/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le02/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le02/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le02/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le02/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le03/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le03/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le03/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le03/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le03/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/le03/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le04/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le04/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le04/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le04/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le04/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le04/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le05/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le05/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le05/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le05/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le05/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le05/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le06/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le06/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le06/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le06/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le06/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le06/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le07/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le07/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le07/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le07/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le07/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/le07/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le08/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le08/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le08/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le08/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le09/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le09/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le09/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le09/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le10/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le10/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le10/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le10/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le11/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le11/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le11/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le11/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le12/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le12/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le12/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le12/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le13/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/le13/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le13/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/le13/B.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/le13/B.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="1334">
+              <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -39,11 +73,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
-    <option name="x" value="1733" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1498" />
     <option name="y" value="35" />
-    <option name="width" value="1267" />
-    <option name="height" value="1965" />
+    <option name="width" value="1502" />
+    <option name="height" value="1961" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -131,23 +165,24 @@
       <updated>1548873922013</updated>
       <workItem from="1548873925296" duration="15112000" />
       <workItem from="1548902821521" duration="119000" />
-      <workItem from="1548902955391" duration="16683000" />
+      <workItem from="1548902955391" duration="17625000" />
+      <workItem from="1548955076635" duration="7000" />
+      <workItem from="1552019072487" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31914000" />
+    <option name="totallyTimeSpent" value="32928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1733" y="35" width="1267" height="1965" extended-state="5" />
-    <editor active="true" />
+    <frame x="1498" y="35" width="1502" height="1961" extended-state="4" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24386618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2071807" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2071807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,13 +207,7 @@
     <entry file="file://$PROJECT_DIR$/le12/A.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/le12/newA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/le12/newA.py" />
     <entry file="file://$PROJECT_DIR$/le12/B.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -195,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/le13/B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="1334">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
         </state>
       </provider>
     </entry>

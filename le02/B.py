@@ -1,4 +1,4 @@
-
+# WHATIS: 選択ソート 安定でない
 N = int(input())
 A = list(map(int, input().split(' ')))
 

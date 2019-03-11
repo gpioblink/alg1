@@ -1,3 +1,4 @@
+# WHATIS: キュー ラウンドロビン CPU
 queue = []
 head = 0
 tail = 0

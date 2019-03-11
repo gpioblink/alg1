@@ -1,3 +1,4 @@
+# WHATIS: 完全二分木 一次の配列で与えられる。アクセスは掛け算で
 def printHeap(H,Q,n):
     if H+1 == n:
         return

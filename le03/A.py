@@ -1,3 +1,4 @@
+# WHATIS: スタック オペランドによる計算
 stack = []
 top = 0
 def push(a):

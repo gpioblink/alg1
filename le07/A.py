@@ -1,3 +1,4 @@
+# WHATIS: 枝付き木をいい感じに出力する id 次数 接続するid
 class Node:
     def __init__(self, parent, lchild, sibling):
         self.parent = parent

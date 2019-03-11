@@ -1,3 +1,4 @@
+# WHATIS: 二分木 id left right (ないとき-1)
 class Node:
     def __init__(self,parent,left,right):
         self.parent = parent

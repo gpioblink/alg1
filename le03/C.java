@@ -1,3 +1,5 @@
+// WHATIS: 双方向連結リスト
+
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.Scanner;

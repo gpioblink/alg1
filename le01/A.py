@@ -1,3 +1,5 @@
+# WHATIS: 挿入ソート
+
 def nsertionSort(A, N): #N個の要素を含む0-オリジンの配列A
     print(" ".join(map(str,A)))
     for i in range(1,N,1):

@@ -1,3 +1,4 @@
+# WHATIS: 二分探索木 insert find print
 class Node:
     def __init__(self,key,left,right,parent):
         self.key = key

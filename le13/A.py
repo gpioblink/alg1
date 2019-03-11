@@ -1,3 +1,4 @@
+# WHATIS: 8 queen 問題
 N = 8
 tate = [True]*N
 yoko = [True]*N

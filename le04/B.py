@@ -1,3 +1,4 @@
+# WHATIS: 二分探索　入力はソート済み
 n = int(input())
 S = list(map(int,input().split()))
 q = int(input())

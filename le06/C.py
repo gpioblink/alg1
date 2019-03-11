@@ -1,3 +1,4 @@
+# WHATIS: クイックソート　「D 3」のようなデータ付き。安定判定はマージソート
 class Card:
     def __init__(self,m, v):
         self.m = m
@@ -95,4 +96,3 @@ if flag:
 
 for i in range(0,n):
     print(A1[i])
-    #print(A2[i])

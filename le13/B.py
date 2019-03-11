@@ -1,3 +1,4 @@
+# 8パズル
 from collections import deque
 
 N = 3
@@ -59,7 +60,6 @@ def bfs():
                     queue.append(t)
                     history.add(ipz)
                     bqueue.append(cost+1)
-
 
 for i in range(N):
     board.append(list(map(int, input().split())))

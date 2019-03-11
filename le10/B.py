@@ -1,3 +1,4 @@
+# WHATIS: 連鎖行列積 行列で掛け算の回数が最小になるときの計算数算出
 n = int(input())
 M = []
 dp = [[None for i in range(100)] for i in range(100)]

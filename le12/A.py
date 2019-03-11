@@ -1,3 +1,4 @@
+# WHATIS: 最小全域木　prim重み付きグラフの総和を計算する
 N = int(input())
 L = []  # input
 

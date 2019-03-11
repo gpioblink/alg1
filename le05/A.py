@@ -1,3 +1,5 @@
+# WHATIS: 総当り Aの数字を足し合わせてQの数字を作れるか
+
 def selectWhich(A,i,c):
     #print(A)
     #print(i)

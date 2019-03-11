@@ -1,3 +1,4 @@
+# WHATIS: 線形探索　数列SとTから含まれるものの個数
 n = int(input())
 S = list(map(int,input().split()))
 q = int(input())

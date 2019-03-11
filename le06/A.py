@@ -1,3 +1,4 @@
+# WHATIS: 計数ソート。ソートしたい整数の値が小さい時　安定
 def CountingSort(A, B, k):
     C = [0] * (k+1)
     for i in range(k):

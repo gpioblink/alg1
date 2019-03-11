@@ -1,3 +1,4 @@
+# WHATIS: 単一始点最短経路u k [v c]->v d[v]
 N = int(input())
 L = [[float('inf')]*N for i in range(N)]
 
